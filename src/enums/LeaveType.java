@@ -1,4 +1,8 @@
 package enums;
 
-public enum LeaveReason {
+public enum LeaveType {
+    SICK,
+    CASUAL,
+    EARNED
 }
+
